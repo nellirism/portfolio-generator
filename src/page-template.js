@@ -1,4 +1,5 @@
-const generatePage = (userName, githubName) => {
+
+const generatePage = (name, github) => {
     return `
     <!DOCTYPE html>
     <html lang="en">
